@@ -1,5 +1,0 @@
-C:\Users\Administrator\documents\visual studio 2010\Projects\TS\TS\bin\Debug\TS.dll
-C:\Users\Administrator\documents\visual studio 2010\Projects\TS\TS\bin\Debug\TS.pdb
-C:\Users\Administrator\documents\visual studio 2010\Projects\TS\TS\obj\Debug\TS.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\documents\visual studio 2010\Projects\TS\TS\obj\Debug\TS.dll
-C:\Users\Administrator\documents\visual studio 2010\Projects\TS\TS\obj\Debug\TS.pdb
