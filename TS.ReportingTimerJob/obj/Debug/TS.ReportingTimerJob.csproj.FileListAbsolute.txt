@@ -3,3 +3,8 @@ C:\Users\Administrator\documents\visual studio 2010\Projects\TS\TS.ReportingTime
 C:\Users\Administrator\documents\visual studio 2010\Projects\TS\TS.ReportingTimerJob\obj\Debug\TS.ReportingTimerJob.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\documents\visual studio 2010\Projects\TS\TS.ReportingTimerJob\obj\Debug\TS.ReportingTimerJob.dll
 C:\Users\Administrator\documents\visual studio 2010\Projects\TS\TS.ReportingTimerJob\obj\Debug\TS.ReportingTimerJob.pdb
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\TS.ReportingTimerJob\bin\Debug\TS.ReportingTimerJob.dll
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\TS.ReportingTimerJob\bin\Debug\TS.ReportingTimerJob.pdb
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\TS.ReportingTimerJob\obj\Debug\TS.ReportingTimerJob.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\TS.ReportingTimerJob\obj\Debug\TS.ReportingTimerJob.dll
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\TS.ReportingTimerJob\obj\Debug\TS.ReportingTimerJob.pdb

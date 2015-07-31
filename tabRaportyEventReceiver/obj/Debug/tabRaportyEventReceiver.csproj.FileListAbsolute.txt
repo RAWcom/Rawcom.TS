@@ -1,5 +1,0 @@
-C:\Users\Administrator\documents\visual studio 2010\Projects\TS\tabRaportyEventReceiver\obj\Debug\tabRaportyEventReceiver.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\documents\visual studio 2010\Projects\TS\tabRaportyEventReceiver\bin\Debug\tabRaportyEventReceiver.dll
-C:\Users\Administrator\documents\visual studio 2010\Projects\TS\tabRaportyEventReceiver\bin\Debug\tabRaportyEventReceiver.pdb
-C:\Users\Administrator\documents\visual studio 2010\Projects\TS\tabRaportyEventReceiver\obj\Debug\tabRaportyEventReceiver.dll
-C:\Users\Administrator\documents\visual studio 2010\Projects\TS\tabRaportyEventReceiver\obj\Debug\tabRaportyEventReceiver.pdb

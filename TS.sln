@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TS", "TS\TS.csproj", "{8B3263B6-1607-48B4-AC94-33774884A3C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tabRaportyEventReceiver", "tabRaportyEventReceiver\tabRaportyEventReceiver.csproj", "{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TS.ReportingTimerJob", "TS.ReportingTimerJob\TS.ReportingTimerJob.csproj", "{F0CB6D3E-0F1E-4FBD-BAB9-449B5935AA71}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{26966E95-254E-42EC-8A7B-EBDD436D93A6}"
@@ -33,20 +31,6 @@ Global
 		{8B3263B6-1607-48B4-AC94-33774884A3C7}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{8B3263B6-1607-48B4-AC94-33774884A3C7}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
 		{8B3263B6-1607-48B4-AC94-33774884A3C7}.Release|x86.ActiveCfg = Release|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
-		{F552658A-7AAC-4DD0-9DBB-62A1BCD64EAA}.Release|x86.ActiveCfg = Release|Any CPU
 		{F0CB6D3E-0F1E-4FBD-BAB9-449B5935AA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F0CB6D3E-0F1E-4FBD-BAB9-449B5935AA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0CB6D3E-0F1E-4FBD-BAB9-449B5935AA71}.Debug|Any CPU.Deploy.0 = Debug|Any CPU

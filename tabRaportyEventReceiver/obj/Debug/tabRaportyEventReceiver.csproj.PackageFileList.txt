@@ -1,1 +1,0 @@
-bin\Debug\tabRaportyEventReceiver.wsp

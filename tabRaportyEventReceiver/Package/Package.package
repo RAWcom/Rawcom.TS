@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<package dslVersion="1.0.0.0" Id="83ec88c6-7912-4674-b2cf-e1f65aeb3b12" solutionId="83ec88c6-7912-4674-b2cf-e1f65aeb3b12" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="tabRaportyEventReceiver">
-    <features>
-        <featureReference itemId="41c0bde8-86d0-45be-be0f-002a1ffdf35b" />
-    </features>
-</package>
