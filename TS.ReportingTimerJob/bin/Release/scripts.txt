@@ -1,0 +1,2 @@
+!!! lista features dla okreslonego situ
+Get-SPFeature -Site http://spf2010/sites/rawcom | Sort DisplayName | FT DisplayName,Id

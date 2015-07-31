@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="83ec88c6-7912-4674-b2cf-e1f65aeb3b12" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="tabRaportyEventReceiver.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="tabRaportyEventReceiver_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

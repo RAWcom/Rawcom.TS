@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ec859148-6b34-45b9-afe8-633e3e44d3c0" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="TS.ReportingTimerJob.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="TS.ReportingTimerJob_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
