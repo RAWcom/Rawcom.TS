@@ -1,2 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="TS.ReportingTimerJob Feature" Id="52757e95-fd25-4da8-ad80-a23011e39e91" ReceiverAssembly="TS.ReportingTimerJob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b26a40c7c7c98f0d" ReceiverClass="TS.ReportingTimerJob.Features.Feature1.Feature1EventReceiver" Scope="Web"></Feature>

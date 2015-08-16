@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\BLL\bin\Debug\RAWcom.TS.BLL.dll
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\BLL\bin\Debug\RAWcom.TS.BLL.pdb
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\BLL\obj\Debug\RAWcom.TS.BLL.dll
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\BLL\obj\Debug\RAWcom.TS.BLL.pdb

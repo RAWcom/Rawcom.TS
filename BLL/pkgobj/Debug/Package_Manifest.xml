@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b00cb41a-8b3b-4db7-9582-b8be1165a0af" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="RAWcom.TS.BLL.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+</Solution>

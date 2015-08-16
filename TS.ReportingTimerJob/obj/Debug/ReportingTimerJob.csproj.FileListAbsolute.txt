@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\TS.ReportingTimerJob\obj\Debug\ReportingTimerJob.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\TS.ReportingTimerJob\bin\Debug\RAWcom.TS.ReportingTimerJob.dll
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\TS.ReportingTimerJob\bin\Debug\RAWcom.TS.ReportingTimerJob.pdb
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\TS.ReportingTimerJob\obj\Debug\RAWcom.TS.ReportingTimerJob.dll
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\TS.ReportingTimerJob\obj\Debug\RAWcom.TS.ReportingTimerJob.pdb

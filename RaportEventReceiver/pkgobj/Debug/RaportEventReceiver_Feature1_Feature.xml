@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="My Event Receiver Feature" Id="5912cd54-fe24-42d6-bb20-fd22ca50e503" Scope="Web" Title="RaportEventReceiver Feature1">
+  <Properties>
+    <Property Key="GloballyAvailable" Value="true" />
+  </Properties>
+  <ElementManifests>
+    <ElementManifest Location="EventReceiver1\Elements.xml" />
+  </ElementManifests>
+</Feature>

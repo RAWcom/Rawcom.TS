@@ -3,3 +3,10 @@ C:\Users\Administrator\documents\visual studio 2010\Projects\TS\ConsoleApplicati
 C:\Users\Administrator\documents\visual studio 2010\Projects\TS\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\Administrator\documents\visual studio 2010\Projects\TS\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
 C:\Users\Administrator\documents\visual studio 2010\Projects\TS\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\ConsoleApplication1\bin\Debug\RAWcom.TS.Console.exe
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\ConsoleApplication1\bin\Debug\RAWcom.TS.Console.pdb
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\ConsoleApplication1\bin\Debug\RAWcom.TS.BLL.dll
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\ConsoleApplication1\bin\Debug\RAWcom.TS.BLL.pdb
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\ConsoleApplication1\obj\x86\Debug\RAWcom.TS.Console.exe
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\ConsoleApplication1\obj\x86\Debug\RAWcom.TS.Console.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\RaportEventReceiver\obj\Debug\RaportEventReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\RaportEventReceiver\bin\Debug\RAWcom.TS.EventReceiver.dll
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\RaportEventReceiver\bin\Debug\RAWcom.TS.EventReceiver.pdb
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\RaportEventReceiver\obj\Debug\RAWcom.TS.EventReceiver.dll
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\RaportEventReceiver\obj\Debug\RAWcom.TS.EventReceiver.pdb
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\RaportEventReceiver\bin\Debug\RAWcom.TS.BLL.dll
+C:\Users\Administrator\Documents\GitHub\Rawcom.TS\RaportEventReceiver\bin\Debug\RAWcom.TS.BLL.pdb
